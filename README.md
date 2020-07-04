@@ -1,2 +1,2 @@
-# MasteringReact
-Código del curso Mastering React de Code With Mosh 
+# MasteringReact 
+Código del curso Mastering React de Code With Mosh.
